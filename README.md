@@ -21,5 +21,5 @@ https://github.com/dan13l80/Tech-Blog
 
 ## Screenshot
 Sample scheenshot:
-<img src="./images/tech-blog.png>
+<img src="./images/tech-blog.png">
 
